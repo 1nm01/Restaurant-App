@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590980597833",
+    "project_id": "restaurant-c3b3c",
+    "storage_bucket": "restaurant-c3b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590980597833:android:ae3f7289188e78f71e9798",
+        "android_client_info": {
+          "package_name": "com.anmol.restaurantOrderReceiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XEjAkmLwaS4vuT2ERuM1zthyUm0-ijk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590980597833:android:2c0a980d1778526e1e9798",
+        "android_client_info": {
+          "package_name": "com.example.media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XEjAkmLwaS4vuT2ERuM1zthyUm0-ijk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
